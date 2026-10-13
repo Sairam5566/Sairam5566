@@ -1,7 +1,7 @@
 <div align="center">
 
-# `B.Tech in Computer Science & Engineering`
-### Sairam Lakshmanan · Batch of 2027
+# `Sairam Lakshmanan`
+### B.Tech in Computer Science & Engineering · Batch of 2027
 
 ```
 ┌─────────────────────────────────────────────────────┐
